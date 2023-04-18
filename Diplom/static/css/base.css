@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+hr  {
+    margin: 10px 0px 10px 0px;
+    height: 5px;
+    background-color: rgb(250, 194, 103);
+}
+
+body {
+    padding: 0px 20px 0px 20px;
+    background-color: rgb(246, 194, 103);
+}
+
+.content_block {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    min-height: 100vh ;
+}
+
+.main_text {
+    color: black;
+    font-family: system-ui;
+}
+
+.secondary_text {
+    color: black;
+    font-family: system-ui;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: 	rgb(105,105,105);
+}
+
+a:hover {
+    text-decoration: underline;
+}
