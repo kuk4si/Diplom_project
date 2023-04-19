@@ -40,3 +40,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.info {
+    color: grey;
+    margin-top: 200px;
+}
